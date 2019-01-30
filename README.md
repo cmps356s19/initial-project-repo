@@ -1,1 +1,1 @@
-# initial-project-repo
+Repository for the project. Each phase should be in its own sub-folder (i.e., Project-Phase1 and  Project-Phase2)
